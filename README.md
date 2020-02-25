@@ -1,2 +1,2 @@
-# ball-
-Today we have learnt about matter.js
+# staticSquare
+A static square made using Matter.js physics engine
